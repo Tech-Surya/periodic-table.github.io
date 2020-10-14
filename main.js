@@ -19,7 +19,7 @@ const elementGroups = [
 function setElementRGB(category) {
     switch (category) {
         case "nonmetal":
-            return '251, 255, 0';
+            return '255, 28, 28';
         case "noble gas":
             return '225, 95, 0';
         case "alkali metal":
