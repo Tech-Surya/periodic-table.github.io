@@ -2,7 +2,6 @@ const main = document.querySelector("main");
 const modal = document.querySelector(".modal-container");
 const filterLabel = document.querySelectorAll(".filter-container .label");
 
-alert("Click On ELEMENTS For More Information")
 const elementGroups = [
     "nonmetal",
     "noble gas",
